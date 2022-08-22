@@ -14,12 +14,12 @@
 
 <body>
     <div>
-        <form method="POST" action="cadastrar.php">
+        <form method="POST" >
             <h1>ENTRAR</h1>
             <input type="text" name="" id="" placeholder="Usuario">
             <input type="password" name="" id="" placeholder="Senha">
-            <input type="submit" href="#" value="ACESSAR">
-            <a href="cadastrar.html">Ainda não é Inscrito Cadastre-se</a>
+            <input type="submit" value="ACESSAR">
+            <a href="cadastrar.php">Ainda não é Inscrito Cadastre-se</a>
         </form>
     </div>
 </body>
