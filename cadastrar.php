@@ -22,6 +22,8 @@
             <a href="index.html">Voltar e Acessar </a>
         </form>
     </div>
+    <?php
+    ?>
 </body>
 
 </html>
