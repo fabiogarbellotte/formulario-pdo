@@ -1,7 +1,6 @@
 <<?php
     require_once 'Usuario.php';
     $u = new Usuario;
-    echo "ola";
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
