@@ -5,3 +5,5 @@ if(!isset($_SESSION['ID_USUARIO'])){
     exit;
 }
 echo "bem-vindo!";
+?>
+<a href="sair.php">SAIR</a>
