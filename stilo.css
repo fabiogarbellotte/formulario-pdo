@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-   background-color: white;
+   background-color: gray;
 }
 div{
     width: 430px;
@@ -61,4 +61,22 @@ a{
 }
 a:hover{
     text-decoration: underline;
+}
+div#msg-sucesso{
+    width:390px ;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgba(50, 205, 50, 0.3);
+    border:1px solid rgb(34, 139, 34);
+    color: white;
+    font-size: 14pt;
+}
+div.msg-erro{
+    width:390px ;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgba(250, 128, 114, 0.3);
+    border:1px solid rgb(165, 42, 42);
+    color: white;
+    font-size: 14pt;
 }
